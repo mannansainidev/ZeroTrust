@@ -161,4 +161,4 @@ This is a solo project. If you're reading this and want to suggest something, op
 
 ## License
 
-MIT — see `LICENSE`.
+Apache-2.0 license — see `LICENSE`.
