@@ -26,7 +26,7 @@ A lightweight issue-tracking web app built with Flask and SQLite. Create, filter
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/mannansainicyber/ZeroTrust.git
+git clone https://github.com/mannansainidev/ZeroTrust.git
 cd ZeroTrust
 ```
 
